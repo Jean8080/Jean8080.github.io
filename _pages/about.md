@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Jean Leong, a Project Controller at [Huawei](https://www.huawei.com/my/) based in Kuala Lumpur, Malaysia, who recently joined the company in January 2024. Holding a Bachelor’s Degree, I have completed a 7-month internship as a recruitment consultant prior to joining Huawei. 
+My name is Jean Leong, a Project Controller at [Huawei](https://www.huawei.com/my/) based in Kuala Lumpur, Malaysia. Holding a Bachelor’s Degree, I have completed a 7-month internship as a recruitment consultant prior to joining Huawei. 
 
 I am also open to collaboration and training opportunities. My interests span across databases and recruiting, reflecting my professional background and aspirations.
