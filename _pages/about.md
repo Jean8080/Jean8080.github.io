@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     A girl living in the clouds, dreaming about stars, dancing among the constellations.
