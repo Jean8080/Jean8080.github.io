@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2014-04-19 11:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Today is the official launch of my personal website!
